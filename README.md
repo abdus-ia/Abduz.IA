@@ -340,10 +340,10 @@ O conteúdo deverá representar o estado consolidado do projeto, evitando contra
 Equipe responsável pelo projeto:
 
 - Guilherme Felicidade
-- Guilherme Lao
 - Gustavo Ferreira
 - João Vitor Mangili
 - Lucas Couto
+- Renan Muniz
 - Willen Favarin
 
 ---
